@@ -2,9 +2,6 @@
 # Display name
 title: Julian Aßmann
 
-# Name pronunciation (optional)
-name_pronunciation: Julian Aßmann
-
 # Full name (for SEO)
 first_name: Julian
 last_name: Aßmann
